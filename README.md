@@ -47,9 +47,15 @@ The game includes responsive controls, smooth animations, real-time scoring, and
 <br>
 <h2>Screenshots</h2>
 
-<img src="screenshots/gamewindow.png" alt="Game Window" width="600">
-<img src="screenshots/shootworm.png" alt="Shooting a Worm Screenshot" width="600">
-<img src="screenshots/wormdeathanimation.png" alt="Worm Shot Screenshot" width="600">
-<img src="screenshots/jump.png" alt="Player jump Screenshot" width="600">
-<img src="screenshots/bees.png" alt="Bees Screenshot" width="600">
-<img src="screenshots/gameover.png" alt="Game Over Screenshot" width="600">
+![image](https://github.com/user-attachments/assets/5097a70e-742c-4ba0-9ce8-cbadd127df6a)
+
+![image](https://github.com/user-attachments/assets/dc5a6b56-0f75-42a0-ba13-c8f4a301350b)
+
+![image](https://github.com/user-attachments/assets/ed941481-b4b9-4c63-a30a-902c462dbeb7)
+
+![image](https://github.com/user-attachments/assets/ec69610d-1785-47a5-a737-8767e7f9f498)
+
+![image](https://github.com/user-attachments/assets/f6f1ddb4-f9e0-454c-9d42-510eba0e9569)
+
+![image](https://github.com/user-attachments/assets/069303c8-1dac-46e2-8124-a7ab885b33ea)
+
